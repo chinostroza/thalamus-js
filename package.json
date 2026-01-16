@@ -1,6 +1,6 @@
 {
   "name": "@zea.cl/thalamus-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official JavaScript/TypeScript SDK for ZEA Thalamus OAuth2 Server",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
