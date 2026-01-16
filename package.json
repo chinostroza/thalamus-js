@@ -30,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zea/thalamus-js"
+    "url": "https://github.com/chinostroza/thalamus-js"
   },
   "bugs": {
-    "url": "https://github.com/zea/thalamus-js/issues"
+    "url": "https://github.com/chinostroza/thalamus-js/issues"
   },
-  "homepage": "https://github.com/zea/thalamus-js#readme",
+  "homepage": "https://github.com/chinostroza/thalamus-js#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^20.10.0",
