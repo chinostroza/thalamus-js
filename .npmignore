@@ -1,0 +1,29 @@
+# Source files (only publish dist/)
+src/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+vitest.config.ts
+.gitignore
+
+# Development
+node_modules/
+.vscode/
+.idea/
+
+# Tests
+__tests__/
+*.test.ts
+*.spec.ts
+coverage/
+
+# CI/CD
+.github/
+
+# Misc
+*.log
+.DS_Store
+.env
+.env.*
